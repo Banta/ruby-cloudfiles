@@ -19,7 +19,7 @@
 
 module CloudFiles
 
-  AUTH_USA = "https://auth.api.rackspacecloud.com/v1.0"
+  AUTH_USA = "https://lon.auth.api.rackspacecloud.com/v1.0"
   AUTH_UK = "https://lon.auth.api.rackspacecloud.com/v1.0"
 
   require 'net/http'
